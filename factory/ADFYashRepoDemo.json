@@ -1,0 +1,9 @@
+{
+	"name": "ADFYashRepoDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c97c1fe5-cc25-4b3f-87e4-18ac9303ec80",
+		"tenantId": "eef121a5-4ba5-4b3d-964e-bc3851225fbb"
+	}
+}
