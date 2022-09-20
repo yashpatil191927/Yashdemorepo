@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFYashRepoDemo"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
